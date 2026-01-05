@@ -1,0 +1,20 @@
+{
+    "name": "Simple List",
+    "short_name": "S-list",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#00aaff",
+    "icons": [
+        {
+        "src": "small.png",
+        "sizes": "192x192",
+        "type": "image/png"
+        },
+        {
+        "src": "large.png",
+        "sizes": "512x512",
+        "type": "image/png"
+        }
+    ]
+}
