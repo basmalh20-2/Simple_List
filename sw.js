@@ -8,8 +8,7 @@ const filesToCache = [
     './manifest.json',
     './small.png',
     './large.png',
-    './empty-massage.JPG',
-    './sunset.jpeg'
+    './empty-massage.JPG'
 ];
 
 self.addEventListener('install', (event) => {
@@ -27,4 +26,5 @@ self.addEventListener('fetch', (event) => {
         })
     );
 });
+
 
