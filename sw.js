@@ -5,7 +5,8 @@ const filesToCache = [
     'javas.js',
     'small.png',
     'large.png',
-    'empty massage.JPG'
+    'empty massage.JPG',
+    'Landscape, sunset in the sky against the mountains, mountain ranges during sunset _ Premium Photo.jpeg'
 ];
 
 self.addEventListener('install', (event) => {
@@ -24,4 +25,5 @@ self.addEventListener('fetch', (event) => {
         })
     );
 });
+
 
