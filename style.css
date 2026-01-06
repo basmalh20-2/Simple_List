@@ -9,7 +9,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url(background.jpeg) no-repeat center center/cover;
+    background: url(Landscape, sunset in the sky against the mountains, mountain ranges during sunset _ Premium Photo.jpeg) no-repeat center center/cover;
     font-family: 'Times New Roman', Times, serif;
 }
 .container {
@@ -222,5 +222,6 @@ body {
     transition: width 0.3s ease;
 
 }
+
 
 
