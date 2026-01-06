@@ -6,7 +6,7 @@ const filesToCache = [
     'small.png',
     'large.png',
     'empty massage.JPG',
-    'bg.jpeg'
+    'background.jpeg'
 ];
 
 self.addEventListener('install', (event) => {
@@ -25,6 +25,7 @@ self.addEventListener('fetch', (event) => {
         })
     );
 });
+
 
 
 
